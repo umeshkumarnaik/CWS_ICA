@@ -1,6 +1,3 @@
-# Coursework
-
-
 **Team Name**:
 ICA 
 
