@@ -19,13 +19,25 @@ Epilepsy is a neurological disorder that affects approximately 50 million people
 **Methodology**:
 The methodology for this work involves the following steps:
 
-* Data collection: EEG signals from patients with epilepsy are collected using standard clinical procedures.
-* Preprocessing: The EEG signals are preprocessed to remove artifacts, filter noise, and segment the data into relevant time windows.
+* Data acquisition: EEG signals from patients with epilepsy and control are collected using standard clinical procedures.
+* Preprocessing: The EEG signals are preprocessed and segmented into relevant frequency bands.
 * Feature extraction: Various features are extracted from the preprocessed EEG signals to represent the underlying dynamics of the brain activity.
 * Model selection: Several machine learning and deep learning models are evaluated for their performance in classifying epileptic seizures from EEG signals.
 * Training and testing: The selected models are trained on a subset of the data and tested on a separate validation set to evaluate their accuracy and generalization performance.
 * Performance evaluation: The performance of the models is evaluated using various metrics such as accuracy, sensitivity, specificity, and F1 score.
 * Comparison and analysis: The results of the different models are compared and analyzed to identify the most effective approach for classifying epileptic seizures from EEG signals.
+
+
+And the work is implemented in five different approaches:
+1) Handcrafted features + ML
+* TD, FD, TFD
+Classification using ML models
+2) Dimension reduced features + ML
+* Dimensionality reduction of features using PCA
+* Decomposition using DWT and then
+3) 1D CNN
+4) Autoencoder (latent space representation)
+5) Spectrogram based 2D CNN
 
 **Deliverables**:
 * A GitHub repository containing the workflow and documentation of the project.
