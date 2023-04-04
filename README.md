@@ -2,10 +2,10 @@
 
 
 **Team Name**:
-* <ICA> 
+ICA 
 
 **Team Members**:
-* <Umesh Kumar Naik M><226102024><ECE><PhD>
+Umesh Kumar Naik M 226102024 ECE PhD
 
 **Project Title**:
 Comparison of various Machine Learning and Deep Learning approaches for the Classification of Epileptic Seizures From EEG Signals        
