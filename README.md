@@ -35,8 +35,8 @@ The methodology for this work involves the following steps:
 The dataset used in our work is taken from the publicly available database of department of epileptology from university of Bonn, Germany. The Dataset is comprised of five groups, namely A to E, each group contains 100 single-channel EEG signals, and each signal is of 23.6-sec in length with 4097 examples.
 
 **References**:
-[1] About Epilepsy | CDC. About Epilepsy | CDC, 30 Sept. 2020, www.cdc.gov/epilepsy/about/index.htm. 
-[2] Vagus Nerve Stimulation - Mayo Clinic. Vagus Nerve Stimulation - Mayo Clinic, 17 Nov. 2020.
-[3] https://mikaelhaji.medium.com/a-technical-deep-dive-on-elon-musks-neuralink-in-40-mins-71e1100f54d4
-[4] Shensa, Mark J. "The discrete wavelet transform: wedding the a trous and Mallat algorithms." IEEE Transactions on signal processing 40.10 (1992): 2464-2482.
-[5] Abdi, Hervé, and Lynne J. Williams. "Principal component analysis." Wiley interdisciplinary reviews: computational statistics 2.4 (2010): 433-459.
+1) About Epilepsy | CDC. About Epilepsy | CDC, 30 Sept. 2020, www.cdc.gov/epilepsy/about/index.htm. 
+2) Vagus Nerve Stimulation - Mayo Clinic. Vagus Nerve Stimulation - Mayo Clinic, 17 Nov. 2020.
+3) https://mikaelhaji.medium.com/a-technical-deep-dive-on-elon-musks-neuralink-in-40-mins-71e1100f54d4
+4) Shensa, Mark J. "The discrete wavelet transform: wedding the a trous and Mallat algorithms." IEEE Transactions on signal processing 40.10 (1992): 2464-2482.
+5) Abdi, Hervé, and Lynne J. Williams. "Principal component analysis." Wiley interdisciplinary reviews: computational statistics 2.4 (2010): 433-459.
